@@ -1,0 +1,2 @@
+# EconometriaCoVID
+Pagina para proyecto
